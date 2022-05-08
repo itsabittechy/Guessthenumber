@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(162, 238, 238);
+    
+}
+
+#container{
+    background: linear-gradient(#e66465, #d391e5,rgb(158, 158, 228));
+    height: 600px;
+    width:727px;
+    margin: auto;
+    margin-top: 20px;
+    border: 6px solid pink ;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+}
+p{
+    font-size: 33px;
+}
+img{
+    height: 60px;
+    align-items: baseline;
+    padding-left: 585px;
+}
+#bttn{
+    margin: auto 5px ;
+}
+
